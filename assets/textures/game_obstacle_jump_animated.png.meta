@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "894b8ddc-650d-4fee-8f7e-8fe51eb91ea6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_obstacle_jump_animated": {
+      "ver": "1.0.3",
+      "uuid": "9a105194-cbbd-4113-b242-b424230b1421",
+      "rawTextureUuid": "894b8ddc-650d-4fee-8f7e-8fe51eb91ea6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 252,
+      "height": 128,
+      "rawWidth": 256,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

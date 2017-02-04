@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7414d934-614a-497c-82ba-14929d5e3177",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fruit_pineapple_100": {
+      "ver": "1.0.3",
+      "uuid": "6245f993-749e-457b-9427-c39a12661ebb",
+      "rawTextureUuid": "7414d934-614a-497c-82ba-14929d5e3177",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1.5,
+      "trimX": 8,
+      "trimY": 6,
+      "width": 86,
+      "height": 91,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
